@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.circle {
+  width: 100px;
+  height: 100px;
+  border-radius: 80%;
+  background: black;
+  display: inline-block;
+  margin: 20px 30px;
+}
+
+.box {
+  width: 100px;
+  height: 100px;
+  background: crimson;
+  display: inline-block;
+  margin: 20px 20px;
+}
